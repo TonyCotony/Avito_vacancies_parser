@@ -1,0 +1,6 @@
+DB_USER=postgres
+DB_PASSWORD=patrik2015
+DB_DATABASE=Users_n_Bots
+DB_HOST=127.0.0.1
+
+LINK_TO_PARSING=https://www.avito.ru/all/vakansii?cd=1&q=python
